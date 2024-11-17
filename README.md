@@ -1,6 +1,7 @@
 # PS controller fix for older kernel which not detect them via USB
 
 ## Credit
+
 emilyst: `https://github.com/emilyst`
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
