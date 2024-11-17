@@ -23,8 +23,9 @@ Then run the following commands as root or using `sudo`.
     dkms install hid-sony-fix/1.14
 
 Then add blacklist to modprobe
-
-'sudo echo "blacklist hid_sony" >> /usr/lib/modprobe.d/hid-sony-blacklist.conf'
+```bash
+sudo echo "blacklist hid_sony" >> /usr/lib/modprobe.d/hid-sony-blacklist.conf
+```
 
 Uninstallation
 --------------
