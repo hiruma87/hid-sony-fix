@@ -1,3 +1,4 @@
+# PS controller fix for older kernel which not detect them via USB
 Installation
 ------------
 Before installation, you should install DKMS support. Depending on which Linux distribution you use, you can run one of the following commands as root or using `sudo`:
